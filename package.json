@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kevapostol/React_material/issues"
   },
-  "homepage": "https://github.com/kevapostol/React_material#readme"
+  "homepage": "https://github.com/kevapostol/React_material#readme",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
 }
